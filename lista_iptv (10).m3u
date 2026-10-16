@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RecordTv Recife (tv Guararapes) [HD]" tvg-logo="http://lgfp.one/PVX4" group-title="Abertos",RecordTv (tv Guararapes) [HD]
+http://p1fast.com:80/JQsibt13/turboplay/326747.ts
+
+#EXTINF:-1 group-title="Brasil" tvg-name="Globo News",Globo News
+http://79.127.238.228:14093
+
+#EXTINF:-1 group-title="Brasil" tvg-name="CNN Brasil",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Brasil" tvg-name="Canal UOL",Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
+
+#EXTINF:-1 group-title="Brasil" tvg-name="Band News",Band News
+http://45.162.64.114/BAND_NEWS/index.m3u8
+
+#EXTINF:-1 group-title="Brasil" tvg-name="Record News",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-name="OAN News",OAN News
+https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-name="Newsmax",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="Internacional" tvg-name="Fox News",Fox News
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+
+#EXTINF:-1 group-title="Esportes" tvg-name="BandSports",BandSports
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio" tvg-logo="" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio
+http://p1fast.com:80/JQsibt13/turboplay/381448.ts
